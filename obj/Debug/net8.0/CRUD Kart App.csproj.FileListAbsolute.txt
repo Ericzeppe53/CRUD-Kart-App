@@ -28,3 +28,4 @@ C:\Users\marti\OneDrive\Skrivebord\Kodehode\Prosjekter\CRUD Kart App\obj\Debug\n
 C:\Users\marti\OneDrive\Skrivebord\Kodehode\Prosjekter\CRUD Kart App\obj\Debug\net8.0\CRUD Kart App.pdb
 C:\Users\marti\OneDrive\Skrivebord\Kodehode\Prosjekter\CRUD Kart App\obj\Debug\net8.0\CRUD Kart App.genruntimeconfig.cache
 C:\Users\marti\OneDrive\Skrivebord\Kodehode\Prosjekter\CRUD Kart App\obj\Debug\net8.0\ref\CRUD Kart App.dll
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\Prosjekter\CRUD Kart App\obj\Debug\net8.0\CRUD Kart App.sourcelink.json

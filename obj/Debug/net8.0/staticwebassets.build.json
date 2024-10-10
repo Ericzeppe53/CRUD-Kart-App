@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JpGSA/39xgjbfpQp+nwH57CfhI0ov7wOsDwKs6RgiBE=",
+  "Hash": "dIjV+dLWWIVSc53bR+/AY5lHzrd6PdQFtvqmBhMlhfA=",
   "Source": "CRUD Kart App",
   "BasePath": "_content/CRUD Kart App",
   "Mode": "Default",
@@ -74,12 +74,12 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kodehode\\Prosjekter\\CRUD Kart App\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kodehode\\Prosjekter\\CRUD Kart App\\wwwroot\\index.html",
       "SourceId": "CRUD Kart App",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kodehode\\Prosjekter\\CRUD Kart App\\wwwroot\\",
       "BasePath": "_content/CRUD Kart App",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "index.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,7 +90,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
       "Identity": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kodehode\\Prosjekter\\CRUD Kart App\\wwwroot\\js\\site.js",
