@@ -18,6 +18,7 @@ public class Program
         }
         app.UseDefaultFiles();
         app.UseStaticFiles();
+        
         //app.UseHttpsRedirection(); <-- Gives warning for now. Needed?
         //app.UseRouting(); Dunno?
         //app.UseAuthorization(); Dunno?
@@ -42,7 +43,6 @@ public class Program
         //When a user deletes an old pin
         app.MapDelete("/deletePin", ()=> "");
 
-        
         
 
     }
