@@ -10,3 +10,9 @@ get information about saved marks and delete old marks.
 
 ### Sequence Diagram
 ![Alt text](/img/Sequence.png "Sequence Diagram")
+
+
+## Designs
+
+### Figma Prototype
+![Alt text](/img/FrontPage.png "Front Page prototype from Figma")
