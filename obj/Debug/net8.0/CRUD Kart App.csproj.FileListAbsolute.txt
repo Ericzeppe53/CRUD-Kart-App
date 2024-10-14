@@ -29,3 +29,34 @@ C:\Users\marti\OneDrive\Skrivebord\Kodehode\Prosjekter\CRUD Kart App\obj\Debug\n
 C:\Users\marti\OneDrive\Skrivebord\Kodehode\Prosjekter\CRUD Kart App\obj\Debug\net8.0\CRUD Kart App.genruntimeconfig.cache
 C:\Users\marti\OneDrive\Skrivebord\Kodehode\Prosjekter\CRUD Kart App\obj\Debug\net8.0\ref\CRUD Kart App.dll
 C:\Users\marti\OneDrive\Skrivebord\Kodehode\Prosjekter\CRUD Kart App\obj\Debug\net8.0\CRUD Kart App.sourcelink.json
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\bin\Debug\net8.0\appsettings.json
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\bin\Debug\net8.0\CRUD Kart App.staticwebassets.runtime.json
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\bin\Debug\net8.0\CRUD Kart App.exe
+C:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\bin\Debug\net8.0\CRUD Kart App.deps.json
+C:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\bin\Debug\net8.0\CRUD Kart App.runtimeconfig.json
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\bin\Debug\net8.0\CRUD Kart App.dll
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\bin\Debug\net8.0\CRUD Kart App.pdb
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\CRUD Kart App.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\CRUD Kart App.AssemblyInfoInputs.cache
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\CRUD Kart App.AssemblyInfo.cs
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\CRUD Kart App.csproj.CoreCompileInputs.cache
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\CRUD Kart App.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\CRUD Kart App.RazorAssemblyInfo.cache
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\CRUD Kart App.RazorAssemblyInfo.cs
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\CRUD Kart App.sourcelink.json
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\staticwebassets\msbuild.CRUD Kart App.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD Kart App.props
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD Kart App.props
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD Kart App.props
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\scopedcss\bundle\CRUD Kart App.styles.css
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\scopedcss\projectbundle\CRUD Kart App.bundle.scp.css
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\CRUD Kart App.dll
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\refint\CRUD Kart App.dll
+c:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\CRUD Kart App.pdb
+C:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\CRUD Kart App.genruntimeconfig.cache
+C:\Users\ericz\Desktop\projects\map app\CRUD-Kart-App\obj\Debug\net8.0\ref\CRUD Kart App.dll
